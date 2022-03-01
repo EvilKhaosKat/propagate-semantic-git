@@ -1,4 +1,4 @@
-module github.com/EvilKhaosKat/propagate-semantic-git
+module github.com/romanthekat/propagate-semantic-git
 
 go 1.16
 
